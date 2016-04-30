@@ -1,0 +1,28 @@
+{
+  "name": "facebook-viewer",
+  "version": "1.0.0",
+  "description": "practice with passport",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGrimStever/FacebookViewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGrimStever/FacebookViewer/issues"
+  },
+  "homepage": "https://github.com/TheGrimStever/FacebookViewer#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.14",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0"
+  }
+}
